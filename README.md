@@ -18,7 +18,7 @@ python compare_G_vs_QN_halflives_Yeast_and_Humans.py
 ```
 
 ```
-python plot_Grich_vs_QNrich_domain_DEGscores_COMBINED.py
+python plot_Grich_vs_QNrich_domain_DegradationScores.py
 ```
 
 This series of commands generates Fig 1, Fig 2A-B, Table S1, and all data appearing in Table S2.
