@@ -25,4 +25,8 @@ python plot_Grich_vs_QNrich_domain_DegradationScores.py
 python plot_G_and_QN_Scrambling_Results.py
 ```
 
-This series of commands generates Fig 1, Fig 2, Fig S2, Table S1, and all data appearing in Table S2.
+```
+.\RUN_plot_ModelProtein_Compositions.bat
+```
+
+This series of commands generates Fig 1, Fig 2, Fig S2, Fig 3A, Table S1, and all data appearing in Table S2.
