@@ -1,0 +1,8 @@
+>YDR432W NPL3 SGDID:S000002840, Chr IV from 1328783-1330027, Genome Release 64-2-1, Verified ORF, "RNA-binding protein; promotes elongation, regulates termination, and carries poly(A) mRNA from nucleus to cytoplasm; represses translation initiation by binding eIF4G; required for pre-mRNA splicing; interacts with E3 ubiquitin ligase Bre1p, linking histone ubiquitination to mRNA processing; may have role in telomere maintenance; dissociation from mRNAs promoted by Mtr10p; phosphorylated by Sky1p in cytoplasm; protein abundance increases in response to DNA replication stress"
+MSEAQETHVEQLPESVVDAPVEEQHQEPPQAPDAPQEPQVPQESAPQESAPQEPPAPQEQ
+NDVPPPSNAPIYEGEESHSVQDYQEAHQHHQPPEPQPYYPPPPPGEHMHGRPPMHHRQEG
+ELSNTRLFVRPFPLDVQESELNEIFGPFGPMKEVKILNGFAFVEFEEAESAAKAIEEVHG
+KSFANQPLEVVYSKLPAKRYRITMKNLPEGCSWQDLKDLARENSLETTFSSVNTRDFDGT
+GALEFPSEEILVEALERLNNIEFRGSVITVERDDNPPPIRRSNRGGFRGRGGFRGGFRGG
+FRGGFSRGGFGGPRGGFGGPRGGYGGYSRGGYGGYSRGGYGGSRGGYDSPRGGYDSPRGG
+YSRGGYGGPRNDYGPPRGSYGGSRGGYDGPRGDYGPPRDAYRTRDAPRERSPTR*
