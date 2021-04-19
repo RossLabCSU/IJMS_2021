@@ -1,9 +1,10 @@
-# Reproducing Analyses Pertaining to Development of the Linear Dispersion Parameter
+# Reproducing Computational Analyses in Cascarina *et al.* (2021) *JBC*
 
 ### Instructions
-1. Download all files in the JBC_2021 directory.
-2. Navigate to appropriate folder via command line.
-3. Run the following commands in-sequence to generate Fig S1 and to validate determination of the minimum and maximum linear dispersion for benchmark sequences from 5aa to 30aa in length (NOTE: each run must be completed before issuing the next command):
+1. Download LCD-Composer.py, as well as all files in the JBC_2021 directory and place in the same folder.
+2. Extract files from compressed folders in the same location as LCD-Composer.py
+4. Navigate to appropriate folder via command line.
+5. Run the following commands in-sequence (NOTE: each run must be completed before issuing the next command):
 
 ```
 python make_Initial_G-QN_Search_BatchFile.py
