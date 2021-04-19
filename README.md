@@ -30,6 +30,10 @@ python plot_G_and_QN_Scrambling_Results.py
 ```
 
 ```
+python make_PolarLCD_Search_BatchFile.py
+```
+
+```
 .\RUN_LCD-Composer_PolarLCD_Search_Batch.bat
 ```
 
