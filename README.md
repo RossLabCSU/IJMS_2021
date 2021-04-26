@@ -42,4 +42,12 @@ python make_PolarLCD_Search_BatchFile.py
 python plot_PolarLCD_domain_DegradationScores.py
 ```
 
-This series of commands generates Fig 1, Fig 2, Fig S2, Fig 3A, Fig 6A, Table S1, and all data appearing in Table S2.
+```
+python .\papa_Python3.py .\Grich_and_QNrich_LCD-Sup35_Fusion_Sequences.txt -o Grich_and_QNrich_LCD-Sup35_Fusion_Sequences_PAPA_RESULTS.csv --ignore_fold_index --verbose
+```
+
+```
+python plot_PAPA_results.py
+```
+
+This series of commands generates Fig 1, Fig 2, Fig 3A, Fig 6A, Fig S2, Fig S4, Table S1, and all data appearing in Table S2.
