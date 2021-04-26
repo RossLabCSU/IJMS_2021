@@ -43,7 +43,7 @@ python plot_PolarLCD_domain_DegradationScores.py
 ```
 
 ```
-python .\papa_Python3.py .\Grich_and_QNrich_LCD-Sup35_Fusion_Sequences.txt -o Grich_and_QNrich_LCD-Sup35_Fusion_Sequences_PAPA_RESULTS.csv --ignore_fold_index --verbose
+python mPAPA.py Grich_and_QNrich_LCD-Sup35_Fusion_Sequences.txt -o Grich_and_QNrich_LCD-Sup35_Fusion_Sequences_PAPA_RESULTS.tsv --ignore_fold_index --verbose
 ```
 
 ```
