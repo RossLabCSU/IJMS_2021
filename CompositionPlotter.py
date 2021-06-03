@@ -4,11 +4,11 @@ Description:
     CompositionPlotter is a composition-based method for identifying and visualizing low-complexity domains in protein sequences.
     Refer to Cascarina et. al. (2021) (INCLUDE LINK WHEN PUBLISHED) for a complete 
     description of algorithm testing and application.
-    Documentation for ComopsitionPlotter is available at XXXX (INCLUDE LINK WHEN FINALIZED).
+    Documentation for ComopsitionPlotter is available at https://github.com/RossLabCSU/IJMS_2021.
 ============================================================================================
 License_info:
     CompositionPlotter is subject to the terms of the GPLv3.0 license. For a complete description of 
-    license terms, please see the license at XXXX (INCLUDE LINK WHEN FINALIZED).
+    license terms, please see the license at https://github.com/RossLabCSU/IJMS_2021.
 """
 
 __author__ = 'Sean M Cascarina'
