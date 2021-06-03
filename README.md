@@ -1,7 +1,7 @@
-# Reproducing Computational Analyses in Cascarina *et al.* (2021) *JBC*
+# Reproducing Computational Analyses in Cascarina *et al.* (2021) *IJMS*
 
 ### Instructions
-1. Download LCD-Composer.py, as well as all files in the JBC_2021 directory and place in the same folder.
+1. Download LCD-Composer.py, as well as all files in the IJMS_2021 directory and place in the same folder.
 2. Extract files from compressed folders in the same location as LCD-Composer.py
 3. Download mPAPA.py from https://github.com/RossLabCSU/mPAPA and place in the same folder as the files from Steps 1 & 2.
 4. Navigate to appropriate folder via command line.
